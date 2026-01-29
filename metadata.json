@@ -1,0 +1,5 @@
+{
+  "name": "高山滑雪 - 迷你游戏",
+  "description": "一款流畅且响应迅速的下坡滑雪游戏。避开障碍物，挑战最高分！基于 React 和 Canvas API 构建。",
+  "requestFramePermissions": []
+}
